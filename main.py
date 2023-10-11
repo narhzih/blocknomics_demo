@@ -2,7 +2,7 @@ import requests
 
 # Details to make API request
 BLOCKONOMICS_API_URL = "https://www.blockonomics.co/api"
-API_KEY = "amqZYI11DDt9n1bHKTvLK78ZKwQw6jul8JtnY6rSNBY"
+API_KEY = "<INSERT_API_KEY>"
 
 
 # Function to get transaction output value
